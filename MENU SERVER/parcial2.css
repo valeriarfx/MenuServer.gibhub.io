@@ -1,0 +1,24 @@
+body {
+    font-size: 27px;
+    text-align: center;
+    background: #654ea3;
+    background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);
+    background: linear-gradient(to right, #eaafc8, #654ea3);
+
+}
+a {
+    color:#e7e7e7;
+}
+h1{
+    color:#654ea3;
+    box-shadow: 10px 10px 8px #b768cf33;
+    display: inline-block;
+    padding: 5px 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
+img{
+    width: 200px;
+    box-shadow: #e7e7e7;
+}
